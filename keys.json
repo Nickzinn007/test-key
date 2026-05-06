@@ -1,7 +1,12 @@
 {
   "keys": [
-    "STAFF-ABCD-1234",
-    "STAFF-TEST-9999",
-    "STAFF-XYZ1-AAAA"
+    {
+      "key": "STAFF-AAAA-1111",
+      "expires": 1715000000
+    },
+    {
+      "key": "STAFF-BBBB-2222",
+      "expires": 1715003600
+    }
   ]
 }
